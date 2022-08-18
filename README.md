@@ -1,5 +1,5 @@
-# CRMEB Admin
-## 开发规范
+# 基于crmeb
+<!--## 开发规范
 统一使用ES6 语法
 方法注释
 /*
@@ -254,5 +254,5 @@ npm run lint
 # 代码格式检查并自动修复
 npm run lint -- --fix
 ```
-
+-->
 
